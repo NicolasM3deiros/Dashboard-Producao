@@ -1,2 +1,2 @@
 Projeto:
-[DashboardProducao.pdf](https://github.com/user-attachments/files/18138657/DashboardProducao.pdf)
+![DashboardProducao](https://github.com/user-attachments/assets/eb6497f1-dbd3-4da6-ae35-6e0e6230d29d)
